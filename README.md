@@ -19,3 +19,30 @@
 [![](https://visitcount.itsvg.in/api?id=Trannguyenthuyduong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+Hello, my name is Tran Nguyen Thuy Duong.  
+I am passionate about **Graphic Design, Motion Graphics** and exploring how design blends with technology. 
+
+---
+
+## ✨ Interests
+- 🎨 2D & 3D design, UI/UX creative storytelling  
+- 📱 Web & mobile design focusing on user experience  
+- 🖼️ Digital media: video editing, motion graphics  
+- 💡 Emerging tech in design: AR/VR, 3D interaction  
+
+---
+
+## 🛠 Skills
+- **Design Tools**: Figma, Adobe Photoshop, Illustrator, After Effects, Premiere Pro  
+- **3D & Animation**: Blender, Maya  
+- **Web Development**: HTML, CSS, JavaScript  
+- **Other Tools**: Canva, Sketch  
+
+---
+
+## 🎯 Goals
+- 📚 Keep learning advanced UX/UI methods and interactive media  
+- 🌐 Contribute to open-source design/dev projects  
+- 🚀 Build creative applications that connect design and technology  
+
