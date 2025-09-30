@@ -12,12 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📂 Top Repositories
-<a href="https://github.com/your-username/your-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical" />
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 👩‍💻 About Me
 Hello, my name is Tran Nguyen Thuy Duong.  
 I am passionate about **Graphic Design, Motion Graphics** and exploring how design blends with technology. 
