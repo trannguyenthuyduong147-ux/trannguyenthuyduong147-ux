@@ -23,8 +23,9 @@ I am passionate about **Graphic Design, Motion Graphics** and exploring how desi
 ## 🎯 Goals
 - 📚 Keep learning advanced UX/UI methods and interactive media  
 - 🌐 Contribute to open-source design/dev projects  
-- 🚀 Build creative applications that connect design and technology  
-
+- 🚀 Build creative applications that connect design and technology
+## 🎨 Projects_ThuyDuong
+![Mô tả video](https://github.com/trannguyenthuyduong147-ux/image_profilee/blob/main/Pink%20Dreamy%20Cute%20Project%20Presentation%20(1).gif)
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/thuyduong147) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Tduongneeee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tranngueynthuyduong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tranngueynthuyduong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trannguyenthuyduong147@gmail.com) 
 
